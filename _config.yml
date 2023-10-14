@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siting Li"
+title                    : "Xinqi Wang"
 title_separator          : "-"
-name                     : &name "Siting Li 李思婷"
-description              : &description "Senior undergraduate at Yao Class 92, Institute for Interdisciplinary Information Sciences, Tsinghua University"
-url                      : https://lst627.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xinqi Wang （王欣琪）"
+description              : &description "CSE Ph.D. student in University of Washington"
+url                      : https://ElliotXinqiWang.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lst627/lst627.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "ElliotXinqiWang.github.io"
+teaser                   : "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siting Li"
+  name             : "Elliot Wang"
   avatar           : "profile.jpg"
-  bio              : "Senior undergraduate at Yao Class 92, Institute for Interdisciplinary Information Sciences, Tsinghua University (Photo taken by Si Jiang)"
-  location         : "Beijing, China"
+  bio              : "CSE Ph.D. Student in University of Washington"
+  location         : "Seattle, Washington, US"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=HqDjYNoAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=4VlAkPUAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lst627"
+  github           : "ElliotXinqiWang"
   google_plus      :
   keybase          :
   instagram        :
