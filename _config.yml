@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elliot Xinqi Wang / Homepage"
+title                    : "Siting Li"
 title_separator          : "-"
-name                     : &name "Elliot Xinqi Wang"
-description              : &description "CSE Ph.D. student in University of Washington"
-url                      : https://ElliotXWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Siting Li 李思婷"
+description              : &description "Senior undergraduate at Yao Class 92, Institute for Interdisciplinary Information Sciences, Tsinghua University"
+url                      : https://lst627.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ElliotXinqiWang.github.io"
-teaser                   : "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "lst627/lst627.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,13 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Elliot Wang"
-  avatar           : "profile.png"
-  bio              : "CSE Ph.D. Student in University of Washington"
-  location         : "Seattle, Washington, US"
+  name             : "Siting Li"
+  avatar           : "profile.jpg"
+  bio              : "Senior undergraduate at Yao Class 92, Institute for Interdisciplinary Information Sciences, Tsinghua University (Photo taken by Si Jiang)"
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=4VlAkPUAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=HqDjYNoAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +93,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ElliotXinqiWang"
+  github           : "lst627"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
